@@ -1,0 +1,17 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Xcode user-specific data
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+
+# Compiled binary (root-level only)
+/ai-commit
+
+# Claude Code local settings
+.claude/
+
+# macOS
+.DS_Store
